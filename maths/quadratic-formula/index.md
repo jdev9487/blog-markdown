@@ -4,8 +4,6 @@ date: "2015-05-01T22:12:03.284Z"
 description: "A derivation of the quadratic formula using the `completing the square' method"
 ---
 
-# The Quadratic Formula
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor id aliquet lectus proin nibh. Sapien eget mi proin sed libero enim sed faucibus turpis. Pretium aenean pharetra magna ac placerat vestibulum. Et odio pellentesque diam volutpat commodo sed. Fermentum iaculis eu non diam phasellus. Pretium aenean pharetra magna ac placerat. Pellentesque massa placerat duis ultricies. Nulla porttitor massa id neque aliquam vestibulum. Dolor magna eget est lorem ipsum dolor sit amet. Ut diam quam nulla porttitor massa id neque aliquam vestibulum.
 
 Elementum facilisis leo vel fringilla est ullamcorper eget. Pulvinar sapien et ligula ullamcorper malesuada proin libero nunc consequat. Euismod nisi porta lorem mollis. Condimentum vitae sapien pellentesque habitant. Praesent elementum facilisis leo vel fringilla est. Lectus arcu bibendum at varius vel pharetra vel turpis. Mi eget mauris pharetra et ultrices. Blandit libero volutpat sed cras ornare arcu dui vivamus. Semper auctor neque vitae tempus quam pellentesque. Posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis. Et malesuada fames ac turpis egestas. Ut consequat semper viverra nam libero justo. Ut placerat orci nulla pellentesque dignissim enim. Diam quis enim lobortis scelerisque fermentum dui faucibus in. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Diam vulputate ut pharetra sit amet. Sapien nec sagittis aliquam malesuada bibendum arcu. Porta lorem mollis aliquam ut porttitor leo a diam.
