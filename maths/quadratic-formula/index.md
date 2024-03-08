@@ -1,5 +1,7 @@
 ---
-author: John Gould
+title: The Quadratic Formula
+date: "2015-05-01T22:12:03.284Z"
+description: "A derivation of the quadratic formula using the `completing the square' method"
 ---
 
 # The Quadratic Formula
