@@ -6,6 +6,10 @@ description: "A derivation of the quadratic formula using the 'completing the sq
 
 This is really easy
 
+<video width="320" height="240" controls>
+  <source src="./RotateSquare.mp4" type="">
+</video>
+
 $$ax^2 + bx + c = 0$$
 
 $$x^2 + \frac{b}{a}x + \frac{c}{a} = 0$$
