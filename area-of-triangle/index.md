@@ -5,3 +5,5 @@ description: "An easy way to see why the area of a triangle is what it is"
 ---
 
 Insert area of triangle explanation
+
+![](anotherTopic.gif)

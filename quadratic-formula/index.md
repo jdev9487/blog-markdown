@@ -6,7 +6,7 @@ description: "A derivation of the quadratic formula using the 'completing the sq
 
 This is really easy
 
-![](RotateSquare.gif)
+![](completingTheSquare.gif)
 
 $$ax^2 + bx + c = 0$$
 
