@@ -34,7 +34,7 @@ Arranged carefully, the first three terms almost produce a square; now to comple
 
 ### Completion
 
-What can often seem like an arbitrary insertion, $\frac{b^2}{4a^2}$, is added and immediately taken away to ensure the equation still holds:
+What can often seem like an arbitrary insertion, $\frac{b^2}{4a^2}$ is added and immediately taken away to ensure the equation still holds:
 
 $$
 x^2 + \frac{b}{2a}x + \frac{b}{2a}x + \frac{b^2}{4a^2} - \frac{b^2}{4a^2} + \frac{c}{a} = 0\,.
