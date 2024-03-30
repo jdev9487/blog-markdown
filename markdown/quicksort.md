@@ -2,7 +2,7 @@
 title: The Quicksort Algorithm
 date: "2024-03-30T11:42:00.000Z"
 description: "Understanding partition and recursion of the ubiquitously used sorting algorithm"
-featuredAnimation: "quicksort"
+featuredAnimation: "quickSort"
 user: "jdev9487"
 ---
 
