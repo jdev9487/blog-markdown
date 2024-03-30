@@ -98,7 +98,7 @@ while upper index <= pivot index:
 Take a pen and paper, use the collection [2, 4, 1, 5, 3] with the algorithm above and ensure that two swaps are made along the way giving first [2, 1, 4, 5, 3] and then [2, 1, 3, 5, 4].
 
 ### Recursion
-The parition step definitely involves a fair few processes but if you've never encountered recursion before it can be hard to get your head around. Pseudocode for `quicksort()` looks something like this:
+The partition step definitely involves a fair few processes but if you've never encountered recursion before it can be hard to get your head around. Pseudocode for `quicksort()` looks something like this:
 ```
 quicksort(elements):
     pivot, smaller_elements, larger_elements = partition(elements)
