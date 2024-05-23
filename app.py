@@ -26,3 +26,6 @@ def markdown(slug):
     markdown = file.read()
     file.close()
     return markdown
+
+if __name__ == "__main__":
+    app.run()
