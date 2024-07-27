@@ -12,6 +12,8 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Set release variable
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/v}" >> $GITHUB_ENV
       -
         name: Checkout
         uses: 
@@ -34,4 +36,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/blog-markdown:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/blog-markdown:${{ env.RELEASE_VERSION }}
