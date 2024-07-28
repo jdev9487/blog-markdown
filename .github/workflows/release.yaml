@@ -13,13 +13,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Read version file
-        id: dotenv
-        uses: falti/dotenv-action@v1.1.4
       -
         name: Checkout
         uses: 
           actions/checkout@v4
+      - name: Read version file
+        id: dotenv
+        uses: falti/dotenv-action@v1.1.4
       -
         name: Set up QEMU
         uses: docker/setup-qemu-action@v3
